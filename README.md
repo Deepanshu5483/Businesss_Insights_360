@@ -6,7 +6,7 @@ This is my **Business Insights 360** project for Atliq Hardware, developed using
 [View Live Dashboard](https://app.powerbi.com/groups/me/reports/12040348-5649-45b9-9c7b-a1ba6ab14497/14d85be301b6af799781?experience=power-bi).
 
 ## 📊 Project Overview  
-The [**Business Insights 360**](https://github.com/Deepanshu5483/Businesss_Insights_360/blob/main/Business_Insights_360.pptx) dashboard offers a comprehensive view of key business areas such as [**Finance**](https://github.com/Deepanshu5483/Businesss_Insights_360/blob/main/Finance%20View.png), [**Sales**](https://github.com/Deepanshu5483/Businesss_Insights_360/blob/main/Sales%20View.png), **Marketing**, **Supply Chain**, and an **Executive Summary**. Each section is designed to provide stakeholders with data-driven insights that can be leveraged for effective decision-making.
+The [**Business Insights 360**](https://github.com/Deepanshu5483/Businesss_Insights_360/blob/main/Business_Insights_360.pptx) dashboard offers a comprehensive view of key business areas such as [**Finance**](https://github.com/Deepanshu5483/Businesss_Insights_360/blob/main/Finance%20View.png), [**Sales**](https://github.com/Deepanshu5483/Businesss_Insights_360/blob/main/Sales%20View.png), [**Marketing**](https://github.com/Deepanshu5483/Businesss_Insights_360/blob/main/Marketing%20View.png), [**Supply Chain**](https://github.com/Deepanshu5483/Businesss_Insights_360/blob/main/Supply%20Chain%20View.png), and an [**Executive Summary**](https://github.com/Deepanshu5483/Businesss_Insights_360/blob/main/Executive%20View.png). Each section is designed to provide stakeholders with data-driven insights that can be leveraged for effective decision-making.
 
 ### 1. [Finance View](https://github.com/Deepanshu5483/Businesss_Insights_360/blob/main/Finance%20View.png)
 - Provides detailed financial analysis, including key metrics like **Revenue**, **Expenses**, and **Profit Margins**.
@@ -26,12 +26,12 @@ The [**Business Insights 360**](https://github.com/Deepanshu5483/Businesss_Insig
   - **Product Profitability**
 - Presents unit economics to break down **Net Sales**, **Post/Pre Invoice Deductions**, **Cost of Goods Sold (COGS)**, and **Gross Margin**.
 
-### 3. Marketing View
+### 3. [Marketing View](https://github.com/Deepanshu5483/Businesss_Insights_360/blob/main/Marketing%20View.png)
 - Analyzes market trends and product performance across regions and segments.
 - Highlights performance metrics for identifying high- and low-performing areas.
 - Showcases **Unit Economics** to assess the profitability and cost-effectiveness of marketing strategies.
 
-### 4. Supply Chain View
+### 4. [Supply Chain View](https://github.com/Deepanshu5483/Businesss_Insights_360/blob/main/Supply%20Chain%20View.png)
 - Key focus on demand forecasting accuracy through KPIs like:
   - **Forecast Accuracy**
   - **Net Error**
@@ -39,7 +39,7 @@ The [**Business Insights 360**](https://github.com/Deepanshu5483/Businesss_Insig
 - Optimizes stock levels by assessing forecasting precision.
 - Compares year-over-year trends in **Forecast Accuracy** and identifies improvement areas.
 
-### 5. Executive View
+### 5. [Executive View](https://github.com/Deepanshu5483/Businesss_Insights_360/blob/main/Executive%20View.png)
 - Provides an overarching summary with critical metrics:
   - **Net Sales**, **GM%**, **Net Profit%**, and **Forecast Accuracy**.
 - Displays key insights by **Sub Zone**, including **PC Market Share Trends**, **Revenue by Division (PC, P&A, N&S)**, and **Revenue by Channel (Retailer, Direct, Distributor)**.
