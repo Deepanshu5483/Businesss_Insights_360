@@ -6,9 +6,9 @@ This is my **Business Insights 360** project for Atliq Hardware, developed using
 [View Live Dashboard](https://app.powerbi.com/groups/me/reports/12040348-5649-45b9-9c7b-a1ba6ab14497/14d85be301b6af799781?experience=power-bi).
 
 ## 📊 Project Overview  
-The **Business Insights 360** dashboard offers a comprehensive view of key business areas such as **Finance**, **Sales**, **Marketing**, **Supply Chain**, and an **Executive Summary**. Each section is designed to provide stakeholders with data-driven insights that can be leveraged for effective decision-making.
+The [**Business Insights 360**](https://github.com/Deepanshu5483/Businesss_Insights_360/tree/main) dashboard offers a comprehensive view of key business areas such as [**Finance**](https://github.com/Deepanshu5483/Businesss_Insights_360/tree/main), [**Sales**](https://github.com/Deepanshu5483/Businesss_Insights_360/tree/main), **Marketing**, **Supply Chain**, and an **Executive Summary**. Each section is designed to provide stakeholders with data-driven insights that can be leveraged for effective decision-making.
 
-### 1. Finance View
+### 1. [Finance View](https://github.com/Deepanshu5483/Businesss_Insights_360/tree/main)
 - Provides detailed financial analysis, including key metrics like **Revenue**, **Expenses**, and **Profit Margins**.
 - Highlights KPIs such as:
   - **Net Sales**
@@ -18,7 +18,7 @@ The **Business Insights 360** dashboard offers a comprehensive view of key busin
 - Tracks sales trends over time.
 - Identifies top and bottom performers among products and customers by Net Sales.
 
-### 2. Sales View
+### 2. [Sales View](https://github.com/Deepanshu5483/Businesss_Insights_360/tree/main)
 - Offers a deep dive into customer and product performance.
 - Evaluates metrics such as:
   - **Sales Growth**
